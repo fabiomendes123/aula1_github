@@ -53,7 +53,7 @@ Scanner sc = new Scanner(System.in);
    
 	   System.out.println("Novo Horario: " + novahr + " horas " + novomin + " minutos");
 	   
-	   System.out.println("Digite qualquer tecla para sair... mfkr");
+	   System.out.println("Digite qualquer tecla para sair... ");
 	   sc.close();
 
 }
